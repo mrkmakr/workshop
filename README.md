@@ -11,3 +11,4 @@ for workshop
 
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/orientation_decoding.png" alt="a" title="a">
 
+<img src="https://github.com/mrkmakr/workshop/blob/master/fig/icnn.png" alt="a" title="a">
