@@ -30,22 +30,29 @@ code for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 1
 
 
 (2), (3)
+
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/RF_rc_am.png" alt="a" title="a">
 
 (4)
+
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/activation_maximization.png" alt="a" title="a">
 
 (5)
+
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/enc_dec_acc.png" alt="a" title="a">
 
 (6)
+
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/tuning_curve_and_weight.png" alt="a" title="a">
 
 (7)
+
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/orientation_decoding.png" alt="a" title="a">
 
 (8)
+
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/icnn.png" alt="a" title="a">
 
 (9)
+
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream.png" alt="a" title="a">
