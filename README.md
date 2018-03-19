@@ -28,6 +28,7 @@ code for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 1
 	*   'bvlc_googlenet.caffemodel' can be downloaded from https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet
 
 
+## result figures
 
 (2), (3)
 
