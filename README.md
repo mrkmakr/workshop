@@ -13,17 +13,21 @@ code for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 1
     (8) image reconstruction from unit activities
     (9) deepdream
 
-[preparation]
-    put 'Alex.npz' in 'model' folder
-    put 'FMD.pickle', 'ImageNet.pickle', and 'Orientation.pickle' in 'data' folder for (5)
+## preparation
+
+*   put 'Alex.npz' in 'model' folder
+
+*   put 'FMD.pickle', 'ImageNet.pickle', and 'Orientation.pickle' in 'data' folder for (5)
+
+	*   These files were distributed in the workshop
+
+*   put 'bvlc_googlenet.caffemodel' in 'model' folder for (9)
+
+	*   This file is a pretrained model of googlenet
     
-        These files were distributed in the workshop
-    
-    put 'bvlc_googlenet.caffemodel' in 'model' folder for (9)
-    
-        This file is a pretrained model of googlenet
-        'bvlc_googlenet.caffemodel' can be downloaded from https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet
-            
+	*   'bvlc_googlenet.caffemodel' can be downloaded from https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet
+
+
 
 (2), (3)
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/RF_rc_am.png" alt="a" title="a">
