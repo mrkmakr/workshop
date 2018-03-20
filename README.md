@@ -11,20 +11,20 @@ code for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 1
     (6) estimating tuning curve for orientation stimulus
     (7) decoding orientation using estimated tuning curve
     (8) image reconstruction from unit activities
-    (9) deepdream
+    (9) deepdream googlenet
+    (10)deepdream alexnet
 
 ## preparation
 
 *   put 'Alex.npz' in 'model' folder
-
 *   put 'FMD.pickle', 'ImageNet.pickle', and 'Orientation.pickle' in 'data' folder for (5)
 
 	*   These files were distributed in the workshop
+	*   These files can be download from XXXXXXXXXXXXX
 
 *   put 'bvlc_googlenet.caffemodel' in 'model' folder for (9)
 
 	*   This file is a pretrained model of googlenet
-    
 	*   'bvlc_googlenet.caffemodel' can be downloaded from https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet
 
 
@@ -56,4 +56,8 @@ code for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 1
 
 (9)
 
-<img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream.png" alt="a" title="a">
+<img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream_google.png" alt="a" title="a">
+
+(9)
+
+<img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream_alex.png" alt="a" title="a">
