@@ -1,4 +1,12 @@
-code for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 18））
+Codes for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 18））
+
+These are tutorial codes.
+	
+*  001_basic_commands.ipynb
+*  002_numpy_matplotlib_data_access.ipynb
+*  003_chainer.ipynb
+*  workshop-Tuning_code.ipynb
+   *  Last one is a tutorial code about estimating tuning curve.
 
 'workshop.ipynb' includes :
 
