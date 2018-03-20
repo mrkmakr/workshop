@@ -66,6 +66,6 @@ These are tutorial codes.
 
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream_google.png" alt="a" title="a">
 
-(9)
+(10)
 
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream_alex.png" alt="a" title="a">
