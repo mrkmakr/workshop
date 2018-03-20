@@ -28,7 +28,7 @@ These are tutorial codes.
 *   put 'FMD.pickle', 'ImageNet.pickle', and 'Orientation.pickle' in 'data' folder for (5)
 
 	*   These files were distributed in the workshop
-	*   These files can be download from XXXXXXXXXXXXX
+	*   These files can be download from https://drive.google.com/open?id=15rhLcR18QxkFqMZSUHuZz9Uk2BhpBdKN
 
 *   put 'bvlc_googlenet.caffemodel' in 'model' folder for (9)
 
