@@ -58,6 +58,6 @@ code for the workshop（第10回脳科学若手の会 春合宿（2018/03/17 ~ 1
 
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream_google.png" alt="a" title="a">
 
-(9)
+(10)
 
 <img src="https://github.com/mrkmakr/workshop/blob/master/fig/dream_alex.png" alt="a" title="a">
